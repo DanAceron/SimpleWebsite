@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html lang = "en">
+<head>
+         <meta charset = "UTF - 8">
+          <title> SioGo </title>
+</head>
+
+
+<body>
+    <h1>SioGo</h1>
+                  
+    <h2>Siomai on the Go </h2>
+    <strong>
+    <br>
+
+
+       Visit our store to experience our reasonably priced and tasty siomai. We provide siomai in three flavors: chicken, pork, and Japanese. In addition,  we provide gulaman drinks to quench your thirst and siomai rice to satisfy your hunger. Come sample our mouthwatering siomai and gulaman drink, which is reasonably priced.
